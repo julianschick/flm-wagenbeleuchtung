@@ -277,7 +277,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2079b2f4-781b-4eec-8e18-3ac72f512236)
     )
-    (pad "1" thru_hole oval (at 1.7 0) (size 11.4 7.1) (drill oval 6.4 2.5) (layers *.Cu "F.Mask") (remove_unused_layers)
+    (pad "1" thru_hole oval (at 1.5 0) (size 11.4 7.1) (drill oval 6.4 2.5) (layers *.Cu "F.Mask") (remove_unused_layers)
       (net 3 "/TRACK_P") (tstamp 6d1acbd4-4ff4-46f1-9009-3339bb8abf56))
   )
 
@@ -517,7 +517,7 @@
 
   (footprint "JS_Local:Fleischmann_Waggon_Pad" (layer "F.Cu")
     (tedit 0) (tstamp be92563a-f671-486d-9363-8506e26141d0)
-    (at 207.5 124.7)
+    (at 207.7 124.7)
     (attr smd)
     (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1520,7 +1520,7 @@
   (gr_text "+" (at 94.3 123) (layer "F.SilkS") (tstamp 32029ea0-8cf9-4e9a-a4fb-ee92e49bbfa0)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "FLM-Wagenbeleuchtung v2" (at 113 120.5) (layer "F.SilkS") (tstamp 4705bf4d-5ffd-46c3-81a4-ad4305574abc)
+  (gr_text "FLM-Wagenbeleuchtung v3 (beta)" (at 113 120.5) (layer "F.SilkS") (tstamp 4705bf4d-5ffd-46c3-81a4-ad4305574abc)
     (effects (font (size 0.7 0.7) (thickness 0.1)))
   )
   (gr_text "-" (at 189.81 125.3) (layer "F.SilkS") (tstamp 51ba42bc-c77f-4045-93c8-2ba5ade836fe)
